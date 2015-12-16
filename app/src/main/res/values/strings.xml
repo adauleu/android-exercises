@@ -2,5 +2,8 @@
     <string name="app_name">Library</string>
     <string name="action_settings">Settings</string>
     <string name="nextButton">Next</string>
+    <string name="text_step0">This is step 0!</string>
     <string name="text_step1">This is step 1!</string>
+    <string name="text_step2">This is step 2</string>
+    <string name="book_placeholder">Book title</string>
 </resources>
